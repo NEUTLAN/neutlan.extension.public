@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3021c585.css",
+    "main.js": "/static/js/main.c02b49ea.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/neutlan_extension_header.png": "/static/media/neutlan_extension_header.c8532c5af573cb14a00a.png",
+    "index.html": "/index.html",
+    "main.3021c585.css.map": "/static/css/main.3021c585.css.map",
+    "main.c02b49ea.js.map": "/static/js/main.c02b49ea.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3021c585.css",
+    "static/js/main.c02b49ea.js"
+  ]
+}
